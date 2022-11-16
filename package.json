@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo Application developed with NodeJs and Angular with test driven development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GimanthaDissanayake/todo-app.git"
+  },
+  "keywords": [],
+  "author": "Gimantha Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GimanthaDissanayake/todo-app/issues"
+  },
+  "homepage": "https://github.com/GimanthaDissanayake/todo-app#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
